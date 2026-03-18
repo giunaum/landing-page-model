@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Servidor HTTP",
+            "type": "python",
+            "request": "launch",
+            "module": "http.server",
+            "args": [
+                "8080"
+            ],
+            "justMyCode": false
+        }
+    ]
+}
